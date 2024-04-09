@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #ffcfa8;
+}
+
+.btnCalc:hover {
+    font-weight: bold;
+    font-size: 15px;
+    background-color: antiquewhite;
+}
+
+input {
+    display: block;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+
